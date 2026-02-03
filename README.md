@@ -22,7 +22,7 @@ Choszczno, Zachodniopomorskie, Poland • Mgr Informatyka w Zarządzaniu • C1 
 
 🛠️ Kluczowe projekty w toku:
 
-• Optymalizacja serwisu: -30% czasu (DMAIC)
+• Optymalizacja serwisu: -15% czasu (DMAIC)
 
 • AI Pareto Analysis (Aideas ML)
 
