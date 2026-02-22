@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 Project Manager | Lean Six Sigma Black Belt | AI/ML
 
-Choszczno, Zachodniopomorskie, Poland • Mgr Informatyka w Zarządzaniu • C1 English 📚
+Choszczno, Zachodniopomorskie, Poland • Mgr Informatyka w Zarządzaniu / Masters of Computer Science and Econometrics • C1 English 📚
 
-15 lat JDG elektronika + Black Belt projekty | W toku: Google PM, CAPM, MBA
+15 lat JDG naprawy elektronika + Black Belt projekty / 15 years company owner (electronics repairs) + Black Belt projects | W toku: / In progress: Google PM, CAPM, MBA
 
 🛠️ Kluczowe projekty w toku: / Key projects in progress:
 
