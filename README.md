@@ -20,9 +20,9 @@ Choszczno, Zachodniopomorskie, Poland • Mgr Informatyka w Zarządzaniu • C1 
 
 15 lat JDG elektronika + Black Belt projekty | W toku: Google PM, CAPM, MBA
 
-🛠️ Kluczowe projekty w toku:
+🛠️ Kluczowe projekty w toku: / Key projects in progress:
 
-• Optymalizacja serwisu: -15% czasu (DMAIC)
+• Optymalizacja serwisu: -15% czasu (DMAIC) / Service optimalization: -15% time (DMAIC)
 
 • AI Pareto Analysis (Aideas ML)
 
